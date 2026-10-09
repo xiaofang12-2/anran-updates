@@ -1,10 +1,10 @@
 {
-  "version": "3.0.0",
-  "notes": "首个版本 建立自动更新通道",
-  "url": "https://github.com/xiaofang12-2/anran-updates/releases/download/v3.0.0/anran-kouhun-v3.0.0.exe",
-  "sha256": "15d3a043e0f2942df21f3d803ebfb5f1e4ad001280775dd1a6a74caf64a94aad",
-  "size": 168161821,
-  "name": "anran-kouhun-v3.0.0.exe",
-  "published_at": "2026-10-09T05:21:39Z",
+  "version": "3.0.1",
+  "notes": "打通自动更新通道 新增检查更新功能",
+  "url": "https://github.com/xiaofang12-2/anran-updates/releases/download/v3.0.1/anran-kouhun-v3.0.1.exe",
+  "sha256": "a103c39bb65742923cd7451a2623ee15869b3c3b9b4dd4f48343673c83424722",
+  "size": 556734739,
+  "name": "anran-kouhun-v3.0.1.exe",
+  "published_at": "2026-10-09T06:13:42Z",
   "branch": "main"
 }
