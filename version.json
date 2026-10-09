@@ -1,10 +1,10 @@
 {
   "version": "3.0.0",
   "notes": "首个版本 建立自动更新通道",
-  "url": "https://github.com/xiaofang12-2/anran-updates/releases/download/v3.0.0/default.exe",
+  "url": "https://github.com/xiaofang12-2/anran-updates/releases/download/v3.0.0/anran-kouhun-v3.0.0.exe",
   "sha256": "15d3a043e0f2942df21f3d803ebfb5f1e4ad001280775dd1a6a74caf64a94aad",
   "size": 168161821,
-  "name": "黯然扣魂.exe",
-  "published_at": "2026-10-09T05:18:02Z",
+  "name": "anran-kouhun-v3.0.0.exe",
+  "published_at": "2026-10-09T05:21:39Z",
   "branch": "main"
 }
